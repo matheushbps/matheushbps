@@ -12,7 +12,9 @@ My Main Abilities currently are:
 - Business Intelligence and its tools (such as Power BI, Tableau)
 - Statistics
 
-  I'm currently developing even more my Data Science skills, studying more algorithms, running projects and fine tunning the technical abilities.
+I'm currently developing even more my Data Science skills, studying more algorithms, running projects and fine tunning the technical abilities.
+
+Here we'll be able to check the projects I develop as well as understand my technical level, and all of the decisions I do to solve business issues.
 
 <!--
 **matheushbps/matheushbps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
