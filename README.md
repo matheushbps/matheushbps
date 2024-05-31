@@ -9,6 +9,8 @@ My Main Abilities currently are:
 - SQL
 - Excel and VBA
 - Python and its packages (Pandas, SKlearn, Numpy, Matplotlib, Seaborn)
+- Machine Learning
+- Deep Learning
 - Business Intelligence and its tools (such as Power BI, Tableau)
 - Statistics
 
