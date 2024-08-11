@@ -1,34 +1,31 @@
-## Hello, I'm Matheus Henrique. I'm graduted in Chemical Engineering at Universidade Federal do Triângulo Mineiro (UFTM) and I'm currently doing my MBA at USP/ESALQ in Data Science and Analytics.
+## Hello, I'm Matheus Henrique!
 
-#### I started working at DiDi Chuxing (a.k.a 99 in Brazil) in 2021, from where I started as FP&A Intern but quickly I became a Data Analyst, position which I worked for my last 3 years.
-#### I also have a strong background in Data Science, field I started working at the same year of 2021.
-#### My last position was at Senior Data Analyst, so I can say that today I have a very good technica background as well as a consistent business acumen.
+I'm a Chemical Engineering graduate from the Universidade Federal do Triângulo Mineiro (UFTM) and currently pursuing an MBA in Data Science and Analytics at USP/ESALQ.
 
-My Main Abilities currently are:
+### Professional Journey
 
-- SQL
-- Excel and VBA
-- Python and its packages (Pandas, SKlearn, Numpy, Matplotlib, Seaborn)
-- Machine Learning
-- Deep Learning
-- Business Intelligence and its tools (such as Power BI, Tableau)
-- Statistics
+I began my career at DiDi Chuxing (known as 99 in Brazil) in 2021, starting as an FP&A Intern before quickly moving into a Data Analyst role, where I worked for three years. Most recently, I held the position of Senior Data Analyst, where I developed a solid technical background and strong business acumen.
 
-I'm currently developing even more my Data Science skills, studying more algorithms, running projects and fine tunning the technical abilities.
+Currently, I am a Python Data Scientist at Turing, working on a third-party project for one of the world's largest tech companies. My work focuses on enhancing a Large Language Model (LLM), pushing the boundaries of AI capabilities.
 
-Here we'll be able to check the projects I develop as well as understand my technical level, and all of the decisions I do to solve business issues.
+### Expertise & Skills
 
-<!--
-**matheushbps/matheushbps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Data Science & Analytics:**
+  - Python (with Pandas, Sklearn, Numpy, Matplotlib, Seaborn)
+  - Machine Learning & Deep Learning
+  - SQL
+  - Excel & VBA
+  - Business Intelligence (Power BI, Tableau)
+  - Statistics
 
-Here are some ideas to get you started:
+### Expanding Horizons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside my robust foundation in data science, I'm deeply engaged in the field of Artificial Intelligence. My current focus includes:
+
+- **AI & Natural Language Processing:**
+  - Transformers & Large Language Models (LLMs)
+  - OpenAI API & Hugging Face
+  - Prompt Engineering
+  - LangChain for building advanced applications
+
+I'm committed to continuously refining my technical skills, exploring cutting-edge algorithms, and running projects that challenge and expand my expertise. This repository showcases my projects, illustrating not only my technical proficiency but also my approach to solving real-world business challenges.
