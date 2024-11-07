@@ -1,4 +1,4 @@
-## Hello, I'm Matheus Henrique! [<img src="https://github.com/user-attachments/assets/6a2297b4-08ad-471d-8158-e6ea9b41688f" width="32" height="32">](https://matheushbps.github.io/)
+## [<img src="https://github.com/user-attachments/assets/6a2297b4-08ad-471d-8158-e6ea9b41688f" width="32" height="32">](https://matheushbps.github.io/) Hello, I'm Matheus Henrique! 
 
 
 I am a Data Scientist with a strong background in data analysis, predictive modeling, and SQL, currently deepening my expertise with a Master’s in Data Science and Analytics at USP/ESALQ. With over three years of experience at DiDi, the world’s largest mobility services tech company, I developed end-to-end data solutions to support business intelligence, customer experience, and strategic decision-making. Now at Turing, I collaborate with a top FAANG company, specializing in Conversational AI to enhance model efficiency and optimize performance through Retrieval-Augmented Generation (RAG) and Supervised Fine Tuning (SFT).
